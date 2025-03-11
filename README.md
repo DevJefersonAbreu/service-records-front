@@ -73,3 +73,10 @@ Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `L
 
 ---
 
+## 📞 Contato
+
+- **Desenvolvedor:** Jeferson Abreu  
+- **GitHub:** [DevJefersonAbreu](https://github.com/DevJefersonAbreu)  
+- **LinkedIn:** [Jeferson Abreu](https://www.linkedin.com/in/jeferson-da-silva-abreu/)  
+- **E-mail:** devjefersonabreu10@gmail.com
+
